@@ -7,12 +7,9 @@ background-color:#a2c11c;
     background-color: #2c5d63;
     display: flex;
     height: 150px;
-    width: 540px;
+    width: fit-content;
     text-align: center;
-    outline-style: double;
-    outline-width: 1px;
-    outline-color: black;
-    font-size: 100px;
+    font-size: 150px;
     margin: auto;
 }
 .btn{
