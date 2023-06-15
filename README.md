@@ -1,3 +1,4 @@
 # stopwatch
 a project using vanilla JS
-https://648b680359a21b00d1a265da--bespoke-vacherin-40a9cd.netlify.app/
+
+LINK:https://648b6aa98c494500b022e4d9--mellow-fairy-7b3599.netlify.app/
