@@ -1,3 +1,6 @@
+html{
+    font-size: 10px;
+}
 body{
     background-color:#95e8d7;
     position:relative;
@@ -8,10 +11,10 @@ body{
         box-sizing: content-box;
         border-radius: 25px;
         margin:auto;
-        outline-style: solid;
-        outline-color: #8971d0;
-        outline-style: groove;
-        background-color: #7dace4;
+        /* outline-style: solid;
+        outline-color: #8971d0; */
+        /* outline-style: groove; */
+        /* background-color: #7dace4; */
         display: flex;
         height: 150px;
         width:48%;
@@ -31,8 +34,10 @@ body{
         outline-style: groove;
         border-radius: 25px;
         background: #8971d0;
+        align-items: center;
     }
-    #s{  
+    #s{ 
+        align-items: center; 
         display: block;
         width:48%;
         box-sizing: content-box;
@@ -43,6 +48,7 @@ body{
         background: #8971d0;
     }
     #m{ 
+        align-items: center;
         width:48%;
         box-sizing: content-box;
         outline-style: solid;
@@ -88,6 +94,6 @@ body{
     }
     @media (max-width: 600px) {
         .time {
-          font-size: 50px;
+          font-size: 5rem;
         }
       }
